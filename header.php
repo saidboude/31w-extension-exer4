@@ -39,7 +39,7 @@
             </nav>
         </header>
         <section class="site__sidebar">
-            <h3>Sidebar</h3>
+            <h3>Menu cours</h3>
             <?php wp_nav_menu(array(
                 'menu' => '',
                 'container' => 'nav'
